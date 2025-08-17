@@ -11,4 +11,4 @@ Key Features of TrialNet:
 - Faster and More Cost-Effective Trials: By minimizing manual work and eliminating intermediaries, TrialNet speeds up the completion of clinical trials, reduces costs, and minimizes errors, ultimately leading to quicker access to safe, effective treatments for patient
 - Open Collaboration for Greater Impact: All Aiken smart contracts used in TrialNet are open source, inviting the Cardano and global scientific communities to collaborat
 
-[https://cardano.ideascale.com/c/idea/131855](https://app.projectcatalyst.io/proposal/0198958f-8e9e-744f-afb5-363411b2fa8a?version=0198b441-d2af-7fb0-9ea5-82853c5b0c5c)
+https://app.projectcatalyst.io/proposal/0198958f-8e9e-744f-afb5-363411b2fa8a?version=0198b441-d2af-7fb0-9ea5-82853c5b0c5c
